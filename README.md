@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello and Welcome! I'm OPPXI</h1>
 <h3 align="center">I try to do something here</h3>
 
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/dafdAsp0RuNZ84ChIDLULLnrNsSFKJPojoy_SQsJDoU/rs:fit:426:480:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvMTJBWnpV/ZTFHRmY2M20vZ2lw/aHkuZ2lm.gif">
+
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=oppxi&label=Profile%20views&color=0e75b6&style=flat" alt="oppxi" /> </h3>
 
 <h1 align="center">Connect with me:</h1>

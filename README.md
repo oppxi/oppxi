@@ -5,6 +5,8 @@
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=oppxi&label=Profile%20views&color=0e75b6&style=flat" alt="oppxi" /> </h3>
 
+<h3 align="center"> <img src="https://discord.c99.nl/widget/theme-1/1020301464704397402.png"/></h3>
+
 <h1 align="center">Connect with me:</h1>
 <h3 align="center">
 <a href="https://instagram.com/oppxi.jp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oppxi.jp" height="30" width="40" /></a>

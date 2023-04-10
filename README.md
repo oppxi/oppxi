@@ -5,7 +5,7 @@
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=oppxi&label=Profile%20views&color=0e75b6&style=flat" alt="oppxi" /> </h3>
 
-<h3 align="center"> <img src="https://discord.c99.nl/widget/theme-1/1020301464704397402.png"/></h3>
+<h3 align="center"> <img src="[https://discord.c99.nl/widget/theme-1/1020301464704397402.png](https://discord.c99.nl/widget/theme-3/1020301464704397402.png)"/></h3>
 
 <h1 align="center">Connect with me:</h1>
 <h3 align="center">

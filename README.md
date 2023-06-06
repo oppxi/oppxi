@@ -11,7 +11,7 @@
 <h3 align="center">
 <a href="https://instagram.com/oppxi.jp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oppxi.jp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8js0ewxwdm4e1d5pccwmjq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8js0ewxwdm4e1d5pccwmjq/" height="30" width="40" /></a>
-<a href="https://discord.gg/O P P X I#1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="O P P X I#1411" height="30" width="40" /></a>
+<a href="https://discord.gg/O P P X I#1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="O P P X I#4013" height="30" width="40" /></a>
 </h1>
 
 <h3 align="left">Languages and Tools:</h3>

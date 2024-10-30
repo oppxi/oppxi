@@ -7,7 +7,4 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=317ynull5wsesf47dg5rvg3kmwxm" alt="Data Card for Spotify">
 </a></h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=oppxi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 

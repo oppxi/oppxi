@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hello and Welcome!</h1>
-<h3 align="center">I try to do something here</h3>
+<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hello%20and%20Welcome!&descAlign=50&descAlignY=50&animation=twinkling&desc=I%20try%20to%20do%20something%20here&fontAlignY=30&reversal=true&fontAlign=50"/></h3>
 <h3 align="center"><img src="https://komarev.com/ghpvc/?username=oppxi&label=Profile%20views&color=0e75b6&style=flat" alt="oppxi"/></h3>
 <h3 align="center"><img align="center" alt="coding" width="400" src="https://media.tenor.com/ldDoV7iwmkgAAAAi/kurukuru-kururing.gif"/></h1>
 

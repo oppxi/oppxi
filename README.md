@@ -16,3 +16,4 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=317ynull5wsesf47dg5rvg3kmwxm" alt="Data Card for Spotify">
 </a></h3>
 
+<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&descAlign=50&descAlignY=50&animation=twinkling&fontAlignY=30&reversal=false&fontAlign=50&section=footer"/></h3>

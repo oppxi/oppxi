@@ -64,13 +64,6 @@
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="20" alt="photoshop logo"  />
 </div>
 
-###
-
-<h1 align="center">⚙️ GitHub Analytics</h1>
-<h3 align="center"><img src="https://github-readme-stats.vercel.app/api?username=oppxi&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false"/></h3>
-<h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oppxi&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></h3>
-</a></h3>
-
 <h1 align="center">🎧 Spotify</h1>
 <h3 align="center"><a href="https://data-card-for-spotify.herokuapp.com/card?user_id=317ynull5wsesf47dg5rvg3kmwxm">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=317ynull5wsesf47dg5rvg3kmwxm" alt="Data Card for Spotify">
